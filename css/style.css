@@ -1,0 +1,21 @@
+
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+h1{
+	font-size: 50px;
+}
+
+.cell{
+	min-height: 100px;
+	background-color:red;
+	margin-bottom: 10px;
+}
+
+.border{
+	margin-bottom: 5px;
+}
